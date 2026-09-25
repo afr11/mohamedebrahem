@@ -1,0 +1,14 @@
+# Data, spreadsheets and reports
+numpy
+pandas
+openpyxl
+xlsxwriter
+matplotlib
+pypdf
+python-docx
+# CAD drawings (DXF / AutoCAD)
+ezdxf
+# Market data for trading analysis
+yfinance
+# Tests
+pytest
